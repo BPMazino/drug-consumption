@@ -6,12 +6,11 @@
 Pour cocher : [x]   -->
 
 - [ ] Explication du projet
-- [ ] Data exploration
-- [ ] Data cleaning
-- [ ] Model
+- [x] Data exploration
+- [x] Data cleaning
+- [x] Model
 
-## Présentation du projet (Rendu 1)
-
+## Présentation du projet
 Le dataset est nommé Drug consumption (quantified) Data Set.
 Link : <https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29>
 
