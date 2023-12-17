@@ -1,33 +1,5 @@
 # Projet HoML  : Drug Consumption Prediction
 
-## Tâches à effectuer
-
-<!-- TODO : Ajouter / Modifier les tâches
-Pour cocher : [x]   -->
-**TOUS LES FICHIERS:**
-   - [ ] commenter le code
-   - [ ] simplifier le code
-   - [ ] bouger les commentaires du rapport au notebooks
-
-**data_visualization (nassimo):**
-   - [ ] pca 2D pour visualiser le cluster de donnée
-   - [ ] réduire le nombre de graph en montrant seulement quelques exemples saillant bien choisis
-
-**prediction_canabis (pierro):**
-   - [ ] bouger l'exploration des données dans le premier notebook
-   - [ ] étoffer les explications
-   - [ ] réduire la quantité d'hyperparamètres explorés
-   - [ ] bidouiller avec des features maps
-   - [ ] pca avec decision boundary
-
-**test_models (martino):**
-   - [ ] bouger de la vizu dans le 1er notebook
-   - [ ] rétirer quelques graph redondants
-   - [ ] commenter un peu plus
-
-**model_all (🙏):**
-   - [ ] freestyle si vous avez la foi
-
 
 ## Présentation du projet
 Le dataset est nommé Drug consumption (quantified) Data Set.
